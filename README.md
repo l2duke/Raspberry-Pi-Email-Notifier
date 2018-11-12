@@ -1,2 +1,3 @@
 # Raspberry-Pi-Email-Notifier
 A raspberry pi powered email notifier. The SenseHat LED grid notifies you of how many unread emails you have.
+Upon plugging in the raspberry pi, your number of unread emails scrolls across the LED grid, as well as an image of an evolope giving you a subtle idea of how many emails you may have. The images consist of an envolope with a green square on the top right corner; this image means you only have one unread email. If you have more than one unread email, a yellow box will appear on the top right corner. If you have a lot of unread emails, a red square shows up on the top right. If you have no unread emails, a smiley face displays on the screen. 
